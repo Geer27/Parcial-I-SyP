@@ -1,0 +1,2 @@
+# Parcial-I-SyP
+Cree primero la carpeta en el escritorio, descargue el archivo del parcial y lo pegue en la carpeta, luego de eso cree el archivo .docx llamado resp y ahi comenze a escribir las respuestas, pero antes de eso habia inicializado la carpeta con git init. De ahi solo comenzó a añadir cada respuesta con git add y git commit, cuando finalize cree el repositorio en github y lo añadi con git remote add origin de ultimo solo con git push lo agregue a la rama del repositorio.
